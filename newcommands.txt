@@ -1,0 +1,1 @@
+\newcommand{\command_in_repo}[1]{\mathbf{#1}}
